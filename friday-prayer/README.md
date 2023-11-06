@@ -5,6 +5,7 @@ description: Islamic rules on Friday (Jumu'a) Prayer
 # Friday Prayer
 
 1. [Ghusl on Friday is obligatory for all adult men.](ghusl.md)
+2. [We can use perfume.](perfume.md)
 
 
 
