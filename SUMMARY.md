@@ -15,3 +15,5 @@
   * [Recite Surah Qaf](friday-prayer/recite-surah-qaf.md)
   * [Pray two rakah after entering masjid while Imam is preaching](friday-prayer/pray-two-rakah-after-entering-masjid-while-imam-is-preaching.md)
   * [Sunnah Prayer after obligatory two rakah](friday-prayer/sunnah-prayer-after-obligatory-two-rakah.md)
+* [Umrah and its superiority](umrah-and-its-superiority/README.md)
+  * [motivation](umrah-and-its-superiority/motivation.md)
