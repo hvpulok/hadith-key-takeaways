@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Hadith Key Takeaways](README.md)
+* [Table Of Contents](table-of-contents.md)
 * [Friday Prayer](friday-prayer/README.md)
   * [Ghusl](friday-prayer/ghusl.md)
   * [Perfume](friday-prayer/perfume.md)
