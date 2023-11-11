@@ -12,4 +12,5 @@
   * [Stern warning against missing Jumu\`ah](friday-prayer/stern-warning-against-missing-jumu-ah.md)
   * [Keeping the prayer and khutbah short](friday-prayer/keeping-the-prayer-and-khutbah-short.md)
   * [Recite Surah Qaf](friday-prayer/recite-surah-qaf.md)
-  * [14](friday-prayer/14.md)
+  * [Pray two rakah after entering masjid while Imam is preaching](friday-prayer/pray-two-rakah-after-entering-masjid-while-imam-is-preaching.md)
+  * [Sunnah Prayer after obligatory two rakah](friday-prayer/sunnah-prayer-after-obligatory-two-rakah.md)

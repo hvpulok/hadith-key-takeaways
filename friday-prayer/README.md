@@ -14,6 +14,8 @@ description: Islamic rules on Friday (Jumu'a) Prayer
 8. [Stern warning against missing Jumu\`ah.](stern-warning-against-missing-jumu-ah.md)
 9. [Keeping the prayer and khutbah short.](keeping-the-prayer-and-khutbah-short.md)
 10. [Recite Surah Qaf.](recite-surah-qaf.md)
+11. [Pray two rakah after entering masjid while Imam is preaching.](pray-two-rakah-after-entering-masjid-while-imam-is-preaching.md)
+12. [Sunnah Prayer after obligatory two rakhah.](sunnah-prayer-after-obligatory-two-rakah.md)
 
 
 
