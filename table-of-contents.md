@@ -2,9 +2,9 @@
 
 
 
-| Chapter Name              | Author | Reviewer | Sources                                       |
-| ------------------------- | ------ | -------- | --------------------------------------------- |
-| Friday Prayer             | Pulok  | Anika    | <p>✅ Sahih muslim</p><p>☑️ Sahih Bukhari </p> |
-| Umrah and its superiority | Anika  |          | <p>☑️ Sahih muslim</p><p>☑ Sahih Bukhari </p> |
-|                           |        |          |                                               |
-|                           |        |          |                                               |
+| Chapter Name  | Author | Reviewer | Sources                                              |
+| ------------- | ------ | -------- | ---------------------------------------------------- |
+| Friday Prayer | Pulok  | Anika    | <p>☑️ Sahih Bukhari </p><p>✅ Sahih Muslim</p><p></p> |
+| Umrah         | Anika  |          | ☑️ Sahih Bukhari ☑️ Sahih Muslim                     |
+|               |        |          |                                                      |
+|               |        |          |                                                      |

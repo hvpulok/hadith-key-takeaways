@@ -5,9 +5,9 @@ description: Islamic rules on Friday (Jumu'a) Prayer
 # Friday Prayer
 
 1. [Ghusl on Friday is obligatory for all adult men.](ghusl.md)
-2. [We can use perfume.](perfume.md)
+2. [Clean teeth & use perfume.](clean-teeth-and-use-perfume.md)
 3. [Listen sermon (Khutbah) attentively](listen-sermon-khutbah-attentively.md).
-4. [There is a short special time on Friday when Dua accepted](the-special-time-on-friday-when-dua-accepted.md).
+4. [The special time on Friday when Dua accepted](the-special-time-on-friday-when-dua-accepted.md).
 5. [Go as early as possible to Masjid.](go-as-early-as-possible-to-masjid.md)
 6. [Jumu\`ah prayer is when the sun has passed.](jumu-ah-prayer-is-when-the-sun-has-passed.md)
 7. [The two khutbah before the prayer and sitting briefly in between them.](the-two-khutbah-before-the-prayer-and-sitting-briefly-in-between-them.md)
